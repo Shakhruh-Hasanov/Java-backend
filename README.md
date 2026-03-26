@@ -61,6 +61,8 @@ Orders
   - DTO usage for request handling
   - Layered backend architecture
   - Data integrity and business logic separation
+
+    
 🚧 Future Improvements Needed
   - Add authentication & authorization (Spring Security, JWT)
   - Implement order status tracking
@@ -68,5 +70,4 @@ Orders
   - Create frontend (React)
   - Deploy to cloud (AWS/Docker)
 
-👨‍💻 Author
-Shakhruh Hasanov
+👨‍💻 Author: Shakhruh Hasanov
